@@ -34,7 +34,7 @@ a p {
   background-image: url(./ug.1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 600px;
   background-position: center;
 
 }
@@ -93,5 +93,18 @@ a p {
 }
 img{
   width: 250px;
-  height: 350px;
+  height: 341px;
+}
+.grey{
+  color: grey;
+}
+.red{
+  color: red;
+}
+.white{
+  color: white;
+}
+.white1{
+  color: white;
+  background-color: black;
 }
