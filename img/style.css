@@ -31,7 +31,7 @@ a p {
   font-family: Arial, Helvetica, sans-serif;
 }
 .font{
-  background-image: url(./ug.1.jpg);
+  background-image: url(./img/Rectangle\ \(29\).png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -39,7 +39,7 @@ a p {
 
 }
 .font1{
-  background-image: url(./Rectangle\ \(20\).png);
+  background-image: url(./img/Rectangle\ \(20\).png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -47,7 +47,7 @@ a p {
 
 }
 .font2{
-  background-image: url(./Rectangle\ \(21\).png);
+  background-image: url(.img./Rectangle\ \(21\).png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -55,7 +55,7 @@ a p {
 
 }
 .font3{
-  background-image: url(./Rectangle\ \(26\).png);
+  background-image: url(./img/Rectangle\ \(26\).png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -66,7 +66,7 @@ a p {
 
 
 .font5{
-  background-image: url(./Rectangle\ \(28\).png);
+  background-image: url(./img/Rectangle\ \(28\).png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
@@ -107,12 +107,8 @@ a p {
   padding: 0.5rem;
 }
 
-.col-1 {
-  flex: 0 0 8.33333333%;
-}
-.col-2 {
-  flex: 0 0 16.66666667%;
-}
+
+
 .col-3 {
   flex: 0 0 25%;
 }
@@ -127,18 +123,6 @@ a p {
 }
 .col-7 {
   flex: 0 0 58.33333333%;
-}
-.col-8 {
-  flex: 0 0 66.666666667%;
-}
-.col-9 {
-  flex: 0 0 75%;
-}
-.col-10 {
-  flex: 0 0 83.33333333%;
-}
-.col-11 {
-  flex: 0 0 91.66666667%;
 }
 .col-12 {
   flex: 0 0 100%;
@@ -180,5 +164,20 @@ im{
   text-align: center;
 }
 .bootom{
-  margin-bottom: -200px;
+  margin-bottom: 20px;
+  text-align: center;
+font-size: 25px;
+transform: translate(250px,400px);
+ 
 }
+.borotom p{
+border-bottom: 1px solid #000;
+max-width: 100px;
+height: 30px;
+}
+.borotom1 p{
+  border-bottom: 1px solid white;
+  max-width: 100px;
+  height: 30px;
+  }
+  
